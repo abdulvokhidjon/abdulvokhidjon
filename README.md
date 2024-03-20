@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @abdulvokhidjon
+- 👋 Hi, I’m Abdulvokhid.
 - 👀 I’m interested in playing chess.
 - 🌱 I’m currently learning programming.
 - 📫 How to reach me via telegram ' https://t.me/iskrennost_5577 '
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: To put it simply, I am an ordinary person who likes humor and sarcasm and appreciates sincerity.
 
-<!---
-abdulvokhidjon/abdulvokhidjon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

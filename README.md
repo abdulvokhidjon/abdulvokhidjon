@@ -43,8 +43,8 @@ _For more projects and contributions, please scroll through my repositories._
 
 I'm always open to connecting with fellow developers and tech enthusiasts. If you're interested in my work or have any questions, don't hesitate to reach out!
 
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/abduvohid-g-ulomov-3534b3248/)
-- **Telegram:** [Your Twitter](https://t.me/abdulvohid_web)
-- **Instagram:** [Your Twitter](https://www.instagram.com/abdulvohid_web/)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/abduvohid-g-ulomov-3534b3248/)
+- **Telegram:** [My Telegram](https://t.me/abdulvohid_web)
+- **Instagram:** [My Instagram](https://www.instagram.com/abdulvohid_web/)
 
 Thank you for visiting my GitHub profile!
